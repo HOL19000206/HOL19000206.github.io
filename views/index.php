@@ -11,4 +11,5 @@
     <img src="https://pepsi.co.uk/images/default-source/products/new-cans/can_cherry.png?sfvrsn=1255fe74_2" alt="pepsi">
 </div>
 </div>
+<h1>Hello world</h1>
 <?php include "../inc/footer.php" ?>
