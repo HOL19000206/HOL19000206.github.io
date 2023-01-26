@@ -1,5 +1,5 @@
 <?php include "../inc/header.php" ?>
-
+<div class="container-fluid">
 <div class="card">
     <div class="circle"></div>
     <div class="content">
@@ -9,5 +9,6 @@
         <a href=".">Buy now</a>
     </div>
     <img src="https://pepsi.co.uk/images/default-source/products/new-cans/can_cherry.png?sfvrsn=1255fe74_2" alt="pepsi">
+</div>
 </div>
 <?php include "../inc/footer.php" ?>
